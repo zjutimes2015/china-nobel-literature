@@ -1,0 +1,3 @@
+refs/**/.git/
+*.pyc
+.DS_Store
