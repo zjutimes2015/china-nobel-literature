@@ -95,4 +95,7 @@
 - 保留小魏闭眼「是怕不是善」、启云回款动机、母亲「签搬不是忘」——半步与含混的承重墙。
 
 ### Git / PR
-（实施时填写：分支名、commit、PR URL 或失败原因。）
+- 分支：`audit/values-morality-2026-10-30`
+- commit：`ba8c2ab`
+- PR：https://github.com/zjutimes2015/china-nobel-literature/pull/2
+
