@@ -99,3 +99,8 @@
 - commit：`ba8c2ab`
 - PR：https://github.com/zjutimes2015/china-nobel-literature/pull/2
 
+
+### 审 PR 后二次修补（写作席）
+- `v2-ch09`：删末段压缩复读（八三年/苦调重复）。
+- `v3-ch05`：删末段饼干/闭眼复读。
+- `v1-ch12`：收掉「开卷二/称克数」目录式预告，改回物象交棒。
